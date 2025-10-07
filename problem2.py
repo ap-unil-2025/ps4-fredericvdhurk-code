@@ -2,7 +2,7 @@
 Problem 2: Dictionary Operations and Nested Structures
 Practice working with Python dictionaries - creating, accessing, modifying, and nesting them.
 """
-
+import string
 
 def create_student_record(name, age, major, gpa):
     """
