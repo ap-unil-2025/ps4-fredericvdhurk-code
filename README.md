@@ -1,7 +1,7 @@
 # Problem Set 4: Lists, Dictionaries, Functions & Imports
 
 ## Student Information
-Name: van den Hurk Frédéric
+Name: VAN DEN HURK Frédéric
 Date: 07.10.2025
 
 ## Assignment Overview
